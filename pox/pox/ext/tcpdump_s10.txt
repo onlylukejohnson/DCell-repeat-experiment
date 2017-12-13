@@ -1,0 +1,195 @@
+15:56:16.900943 IP 10.0.1.2 > 10.1.0.2: ICMP echo request, id 5267, seq 1, length 64
+15:56:16.901826 IP 10.1.0.2 > 10.0.1.2: ICMP echo reply, id 5267, seq 1, length 64
+15:56:16.909835 IP 10.0.1.2 > 10.1.1.2: ICMP echo request, id 5268, seq 1, length 64
+15:56:16.910620 IP 10.1.1.2 > 10.0.1.2: ICMP echo reply, id 5268, seq 1, length 64
+15:56:16.914029 IP 10.0.1.2 > 10.1.2.2: ICMP echo request, id 5269, seq 1, length 64
+15:56:16.914635 IP 10.1.2.2 > 10.0.1.2: ICMP echo reply, id 5269, seq 1, length 64
+15:56:16.916650 IP 10.0.1.2 > 10.1.3.2: ICMP echo request, id 5270, seq 1, length 64
+15:56:16.917327 IP 10.1.3.2 > 10.0.1.2: ICMP echo reply, id 5270, seq 1, length 64
+15:56:17.029607 IP 10.0.2.2 > 10.1.0.2: ICMP echo request, id 5286, seq 1, length 64
+15:56:17.039766 IP 10.1.0.2 > 10.0.2.2: ICMP echo reply, id 5286, seq 1, length 64
+15:56:17.046543 IP 10.0.2.2 > 10.1.1.2: ICMP echo request, id 5287, seq 1, length 64
+15:56:17.047988 IP 10.1.1.2 > 10.0.2.2: ICMP echo reply, id 5287, seq 1, length 64
+15:56:17.060101 IP 10.0.2.2 > 10.1.2.2: ICMP echo request, id 5288, seq 1, length 64
+15:56:17.062397 IP 10.1.2.2 > 10.0.2.2: ICMP echo reply, id 5288, seq 1, length 64
+15:56:17.067891 IP 10.0.2.2 > 10.1.3.2: ICMP echo request, id 5289, seq 1, length 64
+15:56:17.069298 IP 10.1.3.2 > 10.0.2.2: ICMP echo reply, id 5289, seq 1, length 64
+15:56:17.211625 IP 10.0.3.2 > 10.1.0.2: ICMP echo request, id 5306, seq 1, length 64
+15:56:17.213136 IP 10.1.0.2 > 10.0.3.2: ICMP echo reply, id 5306, seq 1, length 64
+15:56:17.222023 IP 10.0.3.2 > 10.1.1.2: ICMP echo request, id 5307, seq 1, length 64
+15:56:17.223437 IP 10.1.1.2 > 10.0.3.2: ICMP echo reply, id 5307, seq 1, length 64
+15:56:17.240163 IP 10.0.3.2 > 10.1.2.2: ICMP echo request, id 5308, seq 1, length 64
+15:56:17.242779 IP 10.1.2.2 > 10.0.3.2: ICMP echo reply, id 5308, seq 1, length 64
+15:56:17.250555 IP 10.0.3.2 > 10.1.3.2: ICMP echo request, id 5310, seq 1, length 64
+15:56:17.252012 IP 10.1.3.2 > 10.0.3.2: ICMP echo reply, id 5310, seq 1, length 64
+15:56:17.322903 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:56:17.346806 IP 10.1.0.2 > 10.0.0.2: ICMP echo request, id 5323, seq 1, length 64
+15:56:17.346819 IP 10.0.0.2 > 10.1.0.2: ICMP echo reply, id 5323, seq 1, length 64
+15:56:17.347550 IP 10.1.0.2 > 10.0.1.2: ICMP echo request, id 5324, seq 1, length 64
+15:56:17.347589 IP 10.0.1.2 > 10.1.0.2: ICMP echo reply, id 5324, seq 1, length 64
+15:56:17.350135 IP 10.1.0.2 > 10.0.2.2: ICMP echo request, id 5325, seq 1, length 64
+15:56:17.350153 IP 10.0.2.2 > 10.1.0.2: ICMP echo reply, id 5325, seq 1, length 64
+15:56:17.350834 IP 10.1.0.2 > 10.0.3.2: ICMP echo request, id 5326, seq 1, length 64
+15:56:17.350850 IP 10.0.3.2 > 10.1.0.2: ICMP echo reply, id 5326, seq 1, length 64
+15:56:17.443464 IP 10.1.1.2 > 10.0.0.2: ICMP echo request, id 5342, seq 1, length 64
+15:56:17.443476 IP 10.0.0.2 > 10.1.1.2: ICMP echo reply, id 5342, seq 1, length 64
+15:56:17.444169 IP 10.1.1.2 > 10.0.1.2: ICMP echo request, id 5343, seq 1, length 64
+15:56:17.444202 IP 10.0.1.2 > 10.1.1.2: ICMP echo reply, id 5343, seq 1, length 64
+15:56:17.446307 IP 10.1.1.2 > 10.0.2.2: ICMP echo request, id 5344, seq 1, length 64
+15:56:17.446326 IP 10.0.2.2 > 10.1.1.2: ICMP echo reply, id 5344, seq 1, length 64
+15:56:17.446985 IP 10.1.1.2 > 10.0.3.2: ICMP echo request, id 5345, seq 1, length 64
+15:56:17.447001 IP 10.0.3.2 > 10.1.1.2: ICMP echo reply, id 5345, seq 1, length 64
+15:56:17.551447 IP 10.1.2.2 > 10.0.0.2: ICMP echo request, id 5361, seq 1, length 64
+15:56:17.551465 IP 10.0.0.2 > 10.1.2.2: ICMP echo reply, id 5361, seq 1, length 64
+15:56:17.558254 IP 10.1.2.2 > 10.0.1.2: ICMP echo request, id 5362, seq 1, length 64
+15:56:17.558277 IP 10.0.1.2 > 10.1.2.2: ICMP echo reply, id 5362, seq 1, length 64
+15:56:17.558980 IP 10.1.2.2 > 10.0.2.2: ICMP echo request, id 5363, seq 1, length 64
+15:56:17.558996 IP 10.0.2.2 > 10.1.2.2: ICMP echo reply, id 5363, seq 1, length 64
+15:56:17.559738 IP 10.1.2.2 > 10.0.3.2: ICMP echo request, id 5364, seq 1, length 64
+15:56:17.559756 IP 10.0.3.2 > 10.1.2.2: ICMP echo reply, id 5364, seq 1, length 64
+15:56:17.668740 IP 10.1.3.2 > 10.0.0.2: ICMP echo request, id 5380, seq 1, length 64
+15:56:17.668754 IP 10.0.0.2 > 10.1.3.2: ICMP echo reply, id 5380, seq 1, length 64
+15:56:17.669572 IP 10.1.3.2 > 10.0.1.2: ICMP echo request, id 5381, seq 1, length 64
+15:56:17.669595 IP 10.0.1.2 > 10.1.3.2: ICMP echo reply, id 5381, seq 1, length 64
+15:56:17.670593 IP 10.1.3.2 > 10.0.2.2: ICMP echo request, id 5382, seq 1, length 64
+15:56:17.670639 IP 10.0.2.2 > 10.1.3.2: ICMP echo reply, id 5382, seq 1, length 64
+15:56:17.674441 IP 10.1.3.2 > 10.0.3.2: ICMP echo request, id 5383, seq 1, length 64
+15:56:17.674462 IP 10.0.3.2 > 10.1.3.2: ICMP echo reply, id 5383, seq 1, length 64
+15:56:18.007875 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:56:18.237318 IP6 fe80::ef:37ff:feab:9830 > ip6-allrouters: ICMP6, router solicitation, length 16
+15:56:18.933570 IP6 fe80::6849:ceff:fe16:1f1b > ip6-allrouters: ICMP6, router solicitation, length 16
+15:56:20.321365 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:56:20.625268 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:56:25.325625 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:56:26.008412 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:56:30.628095 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:56:39.310132 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:56:41.057106 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:56:41.327031 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:56:42.009861 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:56:48.994187 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:56:54.882182 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:57:13.332405 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:13.493220 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:57:13.505460 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:57:13.557233 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:57:13.609323 IP6 :: > ff02::1:ff16:1f1b: ICMP6, neighbor solicitation, who has fe80::6849:ceff:fe16:1f1b, length 24
+15:57:14.093553 IP6 :: > ff02::1:ffab:9830: ICMP6, neighbor solicitation, who has fe80::ef:37ff:feab:9830, length 24
+15:57:14.453492 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:57:14.609445 IP6 fe80::6849:ceff:fe16:1f1b > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:57:14.609464 IP6 fe80::6849:ceff:fe16:1f1b > ip6-allrouters: ICMP6, router solicitation, length 16
+15:57:14.621436 IP6 fe80::6849:ceff:fe16:1f1b > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:57:14.710359 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:14.884480 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? b.1.f.1.6.1.e.f.f.f.e.c.9.4.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:57:14.944823 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. (113)
+15:57:15.001225 IP6 fe80::6849:ceff:fe16:1f1b > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:57:15.097255 IP6 fe80::ef:37ff:feab:9830 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:57:15.097273 IP6 fe80::ef:37ff:feab:9830 > ip6-allrouters: ICMP6, router solicitation, length 16
+15:57:15.105245 IP6 fe80::ef:37ff:feab:9830 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:57:15.136391 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? b.1.f.1.6.1.e.f.f.f.e.c.9.4.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:57:15.198503 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:15.373041 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? 0.3.8.9.b.a.e.f.f.f.7.3.f.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:57:15.385102 IP6 fe80::6849:ceff:fe16:1f1b > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:57:15.386084 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? b.1.f.1.6.1.e.f.f.f.e.c.9.4.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:57:15.432187 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. (113)
+15:57:15.586794 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:57:15.623205 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? 0.3.8.9.b.a.e.f.f.f.7.3.f.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:57:15.710414 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:15.797614 IP6 fe80::ef:37ff:feab:9830 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:57:15.875871 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? 0.3.8.9.b.a.e.f.f.f.7.3.f.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:57:16.075008 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::ef:37ff:feab:9830, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:57:16.077384 IP6 fe80::ef:37ff:feab:9830 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:57:16.167715 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV ubuntu.local.:9 0 0, (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b (181)
+15:57:16.199299 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:16.656998 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV ubuntu.local.:9 0 0, (Cache flush) AAAA fe80::ef:37ff:feab:9830 (181)
+15:57:16.811365 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:57:16.969906 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:57:17.300112 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::ef:37ff:feab:9830, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:57:17.485892 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:57:17.711120 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:18.199423 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:18.392657 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV ubuntu.local.:9 0 0, (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b (181)
+15:57:18.617490 IP6 fe80::6849:ceff:fe16:1f1b > ip6-allrouters: ICMP6, router solicitation, length 16
+15:57:18.881744 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV ubuntu.local.:9 0 0, (Cache flush) AAAA fe80::ef:37ff:feab:9830 (181)
+15:57:19.035770 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:57:19.109376 IP6 fe80::ef:37ff:feab:9830 > ip6-allrouters: ICMP6, router solicitation, length 16
+15:57:19.524072 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::ef:37ff:feab:9830, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:57:20.526816 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:57:20.712787 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:57:21.711858 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:22.200155 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:22.629150 IP6 fe80::6849:ceff:fe16:1f1b > ip6-allrouters: ICMP6, router solicitation, length 16
+15:57:23.121079 IP6 fe80::ef:37ff:feab:9830 > ip6-allrouters: ICMP6, router solicitation, length 16
+15:57:24.542083 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:57:28.509270 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:57:29.714315 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:30.201767 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:31.240345 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:57:42.677935 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:57:42.692961 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:57:45.720329 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:46.204078 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:57:51.923358 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:57:57.390073 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:58:17.722346 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:17.825578 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:58:17.837611 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:58:17.901784 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:58:18.105360 IP6 :: > ff02::1:ff16:1f1b: ICMP6, neighbor solicitation, who has fe80::6849:ceff:fe16:1f1b, length 24
+15:58:18.173503 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:58:18.194325 IP6 :: > ff02::1:ffab:9830: ICMP6, neighbor solicitation, who has fe80::ef:37ff:feab:9830, length 24
+15:58:19.105323 IP6 fe80::6849:ceff:fe16:1f1b > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:58:19.105344 IP6 fe80::6849:ceff:fe16:1f1b > ip6-allrouters: ICMP6, router solicitation, length 16
+15:58:19.113238 IP6 fe80::6849:ceff:fe16:1f1b > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:58:19.193564 IP6 fe80::ef:37ff:feab:9830 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:58:19.193595 IP6 fe80::ef:37ff:feab:9830 > ip6-allrouters: ICMP6, router solicitation, length 16
+15:58:19.201469 IP6 fe80::ef:37ff:feab:9830 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:58:19.206029 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:19.220592 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. (113)
+15:58:19.224096 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? b.1.f.1.6.1.e.f.f.f.e.c.9.4.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:58:19.294732 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:19.309437 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. (113)
+15:58:19.312655 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? 0.3.8.9.b.a.e.f.f.f.7.3.f.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:58:19.449102 IP6 fe80::ef:37ff:feab:9830 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:58:19.474722 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? b.1.f.1.6.1.e.f.f.f.e.c.9.4.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:58:19.564295 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? 0.3.8.9.b.a.e.f.f.f.7.3.f.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:58:19.665173 IP6 fe80::ef:37ff:feab:9830 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:58:19.725428 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? b.1.f.1.6.1.e.f.f.f.e.c.9.4.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:58:19.815122 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [3q] [5n] ANY (QM)? ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. ANY (QM)? ubuntu.local. ANY (QM)? 0.3.8.9.b.a.e.f.f.f.7.3.f.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (259)
+15:58:19.926045 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:58:19.937405 IP6 fe80::6849:ceff:fe16:1f1b > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+15:58:19.949448 IP6 fe80::6849:ceff:fe16:1f1b > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+15:58:20.015282 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::ef:37ff:feab:9830, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:58:20.208213 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:20.287962 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local. (113)
+15:58:20.294930 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:20.377209 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local. (113)
+15:58:20.993820 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:58:21.083502 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::ef:37ff:feab:9830, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:58:22.208696 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:22.296417 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:22.356106 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR ubuntu [6a:49:ce:16:1f:1b]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV ubuntu.local.:9 0 0, (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b (181)
+15:58:22.445796 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR ubuntu [02:ef:37:ab:98:30]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV ubuntu.local.:9 0 0, (Cache flush) AAAA fe80::ef:37ff:feab:9830 (181)
+15:58:22.901963 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:58:23.061039 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6849:ceff:fe16:1f1b, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:58:23.109113 IP6 fe80::6849:ceff:fe16:1f1b > ip6-allrouters: ICMP6, router solicitation, length 16
+15:58:23.151310 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::ef:37ff:feab:9830, (Cache flush) PTR ubuntu.local., (Cache flush) HINFO, (Cache flush) SRV ubuntu.local.:9 0 0 (241)
+15:58:23.205734 IP6 fe80::ef:37ff:feab:9830 > ip6-allrouters: ICMP6, router solicitation, length 16
+15:58:23.430212 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:58:25.468138 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:58:26.209589 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:26.297505 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:26.421260 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:58:27.117564 IP6 fe80::6849:ceff:fe16:1f1b > ip6-allrouters: ICMP6, router solicitation, length 16
+15:58:27.213204 IP6 fe80::ef:37ff:feab:9830 > ip6-allrouters: ICMP6, router solicitation, length 16
+15:58:28.113261 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:58:31.899550 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:58:33.961456 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:58:34.209572 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:34.300090 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:37.409940 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:58:44.218209 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300
+15:58:50.212076 IP6 fe80::6849:ceff:fe16:1f1b.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:50.300003 IP6 fe80::ef:37ff:feab:9830.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+15:58:52.594939 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 6a:49:ce:16:1f:1b (oui Unknown), length 300
+15:58:59.818732 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 02:ef:37:ab:98:30 (oui Unknown), length 300

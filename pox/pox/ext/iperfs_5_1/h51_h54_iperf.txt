@@ -1,0 +1,32 @@
+------------------------------------------------------------
+Client connecting to 10.5.4.2, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[139] local 10.5.1.2 port 54124 connected with 10.5.4.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[139]  0.0- 1.0 sec  84.8 KBytes   695 Kbits/sec
+[139]  1.0- 2.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  2.0- 3.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  3.0- 4.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  4.0- 5.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  5.0- 6.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  6.0- 7.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  7.0- 8.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  8.0- 9.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  9.0-10.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 10.0-11.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 11.0-12.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 12.0-13.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 13.0-14.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 14.0-15.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 15.0-16.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 16.0-17.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 17.0-18.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 18.0-19.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 19.0-20.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 20.0-21.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 21.0-22.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 22.0-23.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 23.0-24.0 sec  0.00 Bytes  0.00 bits/sec
+[139] 24.0-25.0 sec  0.00 Bytes  0.00 bits/sec
+[139]  0.0-25.6 sec  84.8 KBytes  27.2 Kbits/sec

@@ -1,0 +1,3 @@
+N = 6
+L = 1
+NUM_SWITCHES = 49
